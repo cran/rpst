@@ -1,0 +1,15 @@
+93401b2b12c935e7c38adb9d4d05824a *DESCRIPTION
+08a39c77f35c99d72b91cfdf7e559910 *NAMESPACE
+561b0aea46779cf2453612885372be04 *R/gen.data.R
+2719151402fa1c8b86e57f7d358a9541 *R/plot.rpst.R
+9dede8fb554748f9ea0603978664abf0 *R/predict.rpst.R
+53a7f3f188dbf711a78ce44066524459 *R/print.rpst.R
+fc1b97f7c87c716ce7cf134aaf927e83 *R/rpst.R
+5edb78596a1c3c9242cb43d1a97c88dc *R/rpst.km.R
+c2507d788e7c171a74b563bc24b5ff21 *man/gen.data.Rd
+a619d7d83a43449aab9d2753948ba40a *man/plot.rpst.Rd
+b101bdd301c0d44e160740d0efa0bcec *man/predict.rpst.Rd
+d7896d63a2925ee720d6002b65b50e78 *man/print.rpst.Rd
+8864865696285f7c6ba6b1f0ab670d2a *man/rpst-internal.Rd
+10567c20fde794e02d068a924df6264c *man/rpst.Rd
+97afb6aef2f602bf83e77a7665340119 *man/rpst.km.Rd

@@ -1,0 +1,15 @@
+importFrom("survival", "survfit")
+importFrom("survival", "Surv")
+importFrom("plotrix","draw.ellipse")
+importFrom("graphics","abline","axis","box","grid","layout","lines","mtext","par",
+           "plot","plot.new","plot.window","text","title","legend","segments","rect")
+importFrom("stats","glm","rbinom","rnorm","runif","quantile")
+importFrom("utils","read.table")
+
+exportPattern("^[[:alpha:]]+")
+
+export(rpst, gen.data, plot.rpst, rpst.km, predict.rpst, print.rpst)
+
+S3method(plot,rpst)
+S3method(predict,rpst)
+S3method(print,rpst)
